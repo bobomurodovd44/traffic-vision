@@ -14,6 +14,9 @@ samples/*.mov
 # dev-only scratch: proxy clips, preview frames - not part of the submission
 dev_data/
 
+# team website source - published separately, not part of the code submission
+website/
+
 # model weights - ship via weights/download.sh instead of committing large binaries
 weights/*.pt
 weights/*.pth
