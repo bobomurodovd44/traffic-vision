@@ -4,12 +4,11 @@
 
 - **Dilshod Bobomurodov** (captain) — detection, tracking, rules, scene
   calibration, risk estimation, labeling, evaluation harness testing.
-- **Sevara Saidova**
-- **Muhammadjon Ismoilov**
+- **Sevara Saidova** — team website design and layout, EDA presentation.
+- **Muhammadjon Ismoilov** — technical report and results write-up.
 
-(Roles for Sevara and Muhammadjon — e.g. website, EDA, report — to be filled
-in by them; contact details are on file with the organizers rather than
-published here.)
+(Contact details are on file with the organizers rather than published
+here.)
 
 Submission for the WIUT Hackathon 2026 Computer Vision track elimination
 task: watch a fixed road-camera video, emit traffic events as
