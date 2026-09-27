@@ -1,0 +1,21 @@
+{
+ "team": "traffic-vision",
+ "videos": {
+  "C3896.MP4": {
+   "events": [],
+   "risk": []
+  }
+ },
+ "log": {
+  "C3896.MP4": {
+   "duration": 340.34,
+   "budget_sec": 1021.0,
+   "errors": [
+    "over time budget (1027.6s > 1021s): scored as empty"
+   ],
+   "part_a_sec": 511.4,
+   "part_b_sec": 516.2,
+   "total_sec": 1027.6
+  }
+ }
+}

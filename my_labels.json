@@ -1,0 +1,23 @@
+{
+ "C3896.MP4": {
+  "duration": 340.34,
+  "fps": 29.97,
+  "events": [
+   [131.26, 143.18, "stopped_vehicle"],
+   [4.9, 28.26, "congestion"],
+   [57.69, 69.6, "congestion"],
+   [77.08, 103.7, "congestion"],
+   [139.21, 143.41, "congestion"],
+   [151.35, 159.06, "congestion"],
+   [169.8, 180.08, "congestion"],
+   [224.22, 241.27, "congestion"],
+   [287.99, 327.93, "congestion"],
+   [112.58, 113.98, "jaywalking"],
+   [148.78, 150.42, "jaywalking"],
+   [183.35, 184.98, "jaywalking"],
+   [257.86, 259.26, "jaywalking"],
+   [268.6, 270.47, "jaywalking"],
+   [271.4, 272.57, "jaywalking"]
+  ]
+ }
+}
